@@ -8,7 +8,7 @@ pipeline {
   
   environment {
     // --> Variable used within the pipeline
-    NB_VOYELLES = 0
+    NB_VOYELLES = 1
   }
   
   parameters {
